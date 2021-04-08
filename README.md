@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👩🏻‍💻 **whoami:**
+👩🏻‍💻 **whoami:**<br />
 - 😄 Pronouns: she/her/hers
 - 💬 Ask me about: Animal Crossing 🌱, music theory 🎶, knitting 🧶, baseball ⚾️
 - 📫 How to reach me: [https://modtitan.com/p/contact.html](modtitan.com/p/contact.html)
