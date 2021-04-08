@@ -1,4 +1,4 @@
-# wonk (n.) - a person who takes an enthusiastic or excessive interest in the specialized details of a particular subject or field
+### wonk (n.) - a person who takes an enthusiastic or excessive interest in the specialized details of a particular subject or field
 <!--
 **smashism/smashism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
